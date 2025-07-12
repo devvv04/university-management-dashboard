@@ -16,6 +16,11 @@ A responsive and interactive **Student Dashboard** designed for a University Man
 
 ---
 
+<p align="left">
+  <img src="images/Capture.JPG" width="800"/>
+</p>
+
+
 ## 🛠️ Tech Stack
 
 | Layer       | Technology    |
