@@ -1,6 +1,26 @@
-# Student-Dashboard
-A minimal, responsive and dynamic Student Dashboard project made up using HTML, CSS &amp; JavaScript.
+# 🎓 Student Dashboard – University Management System
 
+A responsive and interactive **Student Dashboard** designed for a University Management System. This project displays semester grades, daily timetable, announcements, teacher availability, and more in a modern UI. Built using **HTML**, **CSS**, and **JavaScript**.
 
-<img width="959" alt="Screenshot_20230124_201158" src="https://user-images.githubusercontent.com/97978224/214325024-ecd69c9c-6ece-4245-b2ed-735b4fad26d0.png">
+---
+
+## 📌 Features
+
+- 📊 **Semester Grades** with visual progress indicators
+- 🗓️ **Daily Timetable** view with subject details
+- 📣 **Announcements** section for updates
+- 🧑‍🏫 **Teachers on Leave** information
+- 👤 **Student Profile Card** with personal and academic details
+- 🌙 **Dark Mode Toggle** for better accessibility
+- 🔐 **Change Password** and **Logout** navigation
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer       | Technology    |
+|-------------|----------------|
+| Frontend    | HTML, CSS, JavaScript |
+| Styling     | Custom CSS, Google Fonts, Material Icons |
+| Interactivity | Vanilla JavaScript |
 
