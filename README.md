@@ -17,7 +17,7 @@ A responsive and interactive **Student Dashboard** designed for a University Man
 ---
 
 <p align="left">
-  <img src="images/Capture.JPG" width="800"/>
+  <img src="images/ss.JPG" width="800"/>
 </p>
 
 
